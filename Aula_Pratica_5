@@ -1,0 +1,78 @@
+# Sites-criados-Na-Aula-Da-Faculdade
+<!DOCTYPE html>
+<!-- html lang "pt-br"> -->
+<html>
+    <head>
+        <title> Krygor yan </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-sacale=1.0">
+        <link rel="stylesheet" href="C:\Users\Patricia jaqueline\Downloads\OneDrive_2023-03-03\meu html\style.css">
+        <style></style>
+
+    </head>
+
+    <body>
+
+        <div class="Almoco"> Almoção </div>
+        <div class="Cacada"> Caçada</div>
+        <div class="Alcatrao"> Alcatrao </div>
+        <div class="Dicionario"> Dicionário</div>
+        <div class="Informacao"> Informação</div>
+        <div class="Box"></div>
+
+    </body>
+
+</html
+==============================CSS ====================== CSS ============================ CSS ============================================= CSS ===================
+.Almoco{
+    margin: 5px;
+    background-color: blue;
+    text-align: left;
+    font-size: 20px ;
+    color:whitesmoke;
+    border: 2px solid black; 
+    border-radius: 30px; 
+             }
+.Almoco:hover{background-color: orange;}
+
+.Cacada{
+    margin: 5px;
+    background-color: green;
+    text-align: right; 
+    font-size: 20px ;
+    color:whitesmoke; 
+    border: 2px solid black; 
+    border-radius: 30px;
+          }
+.Cacada:hover{background-color: orange;}
+
+.Alcatrao{
+    margin: 5px;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px ; 
+    border: 2px solid black; 
+    border-radius: 30px;
+
+           }
+.Alcatrao:hover{background-color: orange;}
+
+ .Dicionario{
+    margin: 5px;
+    background-color: pink;
+    text-align: center; 
+    font-size: 20px ; 
+    border: 2px solid black; 
+    border-radius: 30px;
+            }
+.Dicionario:hover{background-color: orange;}
+
+    .Informacao{
+    margin: 5px;
+    background-color: white;
+    text-align: right;
+    font-size: 20px ;
+    border: 2px solid black; 
+    border-radius: 30px;
+            }
+.Informacao:hover{background-color: orange;}
