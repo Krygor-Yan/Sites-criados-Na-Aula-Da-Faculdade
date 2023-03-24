@@ -1,0 +1,141 @@
+*{margin: 0;
+padding: 0;}
+
+
+.Title{
+    text-align: center;
+    background-color: blanchedalmond;
+      
+
+}
+
+
+.Text_1{
+    margin-bottom: 50px;
+
+}
+
+.Text_2{
+    text-align: center;
+    margin-bottom: 50px;
+    
+
+}
+
+
+.All_Links{ /* Caixa Principal */
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black;
+    height: 500px;
+    width: 500px;    
+}
+
+.Primary_Links{
+    padding:20px;
+    text-align: center;
+    
+}
+
+.Link_1{
+    display:inline-block;
+    padding:20px;
+    border: blue solid;
+    width: 20%;
+    height: 5px;
+    margin-left: 2px;
+}
+
+.Link_2{
+    display:inline-block;
+    padding:20px;
+    border: blue solid;
+    width: 20%;
+    height: 5px;
+    margin-left: 5px ;
+}
+
+.Link_3{
+    display:inline-block;
+    padding:20px;
+    border: blue solid;
+    width: 20%;
+    height: 5px;
+    margin-left: 5px;
+}
+
+
+ 
+.Link_4{
+    display:inline-block;
+    border: blue solid;
+    padding: 15%;
+    margin-left: 31px;
+    
+
+}
+
+.Link_5{
+    display:inline-block;
+    border: blue solid;
+    padding: 15%;
+    margin-bottom: 15px;
+    margin-left: 55px;
+    
+    
+}
+
+.Link_6{
+    margin-bottom: 10px;
+    text-align: center;
+    border: blue solid;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.Link_7{
+    margin-bottom: 10px;
+    text-align: center;
+    border: blue solid;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+.Link_8{
+    margin-bottom: 10px;
+    text-align: center;
+    border: blue solid;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+
+
+.Link_9{
+    display:inline-block;
+    border: blue solid;
+    padding: 8%;
+    margin-left: 30px;
+    width: 60px;
+}
+
+.Link_10{
+    display:inline-block;
+    border: blue solid;
+    padding: 8%;
+    width: 60px;
+
+}
+
+.Link_11{
+    display:inline-block;
+    border: blue solid;
+    padding:8%;
+    width: 55px;
+    
+    
+    
+
+}
