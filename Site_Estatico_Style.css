@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: bisque; /* cor de fundo da pagina */
+}
+
+.List_Menu > ul > li{
+    color: white; /* cor da fonte*/
+    display:inline-block; /* Alinha os itens da lista */
+    list-style-type: none; /* Marcadores da lista*/
+    padding: 3px; /* Gordura da listra preta*/
+    /*margin-left: 0.5%;  Margem entre um item ao outro da lista*/ 
+    margin-right: 1%; /* margem da esquerda */
+   /* width: 0.1%;  Largura da caixa de texto da lista*/
+    
+
+}
+
+
+.List_Menu{
+    text-align: right; /* itens da lista alinhados para esquerda*/
+    background-color: black;
+}
+
+.Text_Body{
+    font-size: 14px;
+    margin-top: 0.5%; /* Margem de cima para baixo apartir do ultimo elemento*/
+    background-color: white; /* cor de fundo da caixa de texto*/
+    border: solid black; /* Borda*/
+    border-radius: 15px; /* arredondamento da borda*/
+    width: 80% ; /* Largura da caixa de texto */
+    margin-left: auto; /* alinha a caixa o maximo para a direita*/
+    margin-right: auto; /* alinha a caixa  o maximo para a esquerda*/
+    text-align: center; /* centraliza o texto*/
+    padding-bottom: 30px; /* tamanho para baixo da caixa de texto*/
+
+
+}
+
+.Texts{
+    margin-right:10% ;
+    margin-left: 10%;
+    
+
+}
+
+
+.Text_Title{ /* titulo dos textos */
+    font-size: 20px; /* Tamanho da fonte*/
+    padding: 30px; /* Espaçamento do fim de um texto para um titulo*/
+    font-weight: bold; /* negrito*/
+   
+}
+
+.footer{
+    font-weight: bold;  /* Negrito */
+    text-align: center; /* Alinhamento*/
+    background-color: gray; /* Cor*/
+    padding: 4.7%; /* cor cinza de cima para baixo*/
+    margin-top: 0.5%; /* Margem de cima para baixo apartir do ultimo elemento */
+    padding-top: 0.1%; /* Espaçamento de cima para baixo do texto*/
+    
+}
