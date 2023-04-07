@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Desenvolvimento_Web.css" >
+    <title>REGISTRATION FORM</title>
+</head>
+<body>
+
+    <div class="Form_Contact"> REGISTRATION FORM </div> 
+        
+       
+
+        <div class="Box_Form"> 
+        
+            <form>
+
+                <div class="Name_Surname">
+                    <label for="fname" >Name:</label><br>
+                        <input type="text" placeholder="ENTER YOUR NAME" id="nome" name="fname"><br>
+                    <label for="lname">Surname:</label><br>
+                        <input type="text" placeholder="ENTER YOUR LAST NAME" id="surname" name="lname">
+                </div>
+
+                <br>
+
+                <div class="Age_Text"> <label for="fAge" >Age:</label> </div>
+                <div class="Age">  <input type="text" placeholder="ENTER YOUR AGE" id="AGE" name="lAge"> </div>
+            
+                <Div class="Position">
+                    <label for="position">Position:</label>
+                    <select id="position" name="position">
+                        <option value="position1">Developer</option>
+                        <option value="position2">Computer Technician</option>
+                        <option value="position3">Product Owner.</option>
+                        <option value="position4">Analyst</option>
+                    </select>
+                </Div>    
+
+                <Div class="Sector">
+                    <label for="sector">sector:</label>
+                    <select id="sector" name="sector">
+                        <option value="sector1">RH</option>
+                        <option value="sector2">Operation</option>
+                        <option value="sector3">Coordination</option>
+                        <option value="sector4">Planning</option>
+                    </select>
+                </Div>
+                
+                <br>
+
+                
+                <Div class="Date_Text">  <label for="Date">Date of visit:</label> </Div>
+                <Div class="Date"> <input id="date" type="date"> </div>
+                
+
+                <div class="Observations">  <label for="fname" > Observations:</label> <div> 
+                        <textarea  id="Observations" name="Observations"> </textarea>
+                <br>
+
+                <div class="Submit">  <input type="submit" value="Send Form" id="submit" name="submit"> </div>
+                
+            
+            </form>
+
+        </div>
+    
+</body>
+</html>
