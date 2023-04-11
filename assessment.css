@@ -1,0 +1,121 @@
+body {
+    background-image: url("img/praia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+
+input[type=text]{ /* Estilizando todos os input do tipo texto  */ 
+    border-radius: 30px;
+    width: 250px;  
+    height: 25px;
+}
+
+
+.Input_Age > input[type=text]  { /* estilizando a Div .Input_Age*/
+    width: 65px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.Submit > input[type=submit] { /* Estilizando  Div Submit */
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+}
+
+.Header > ul{ /* Estilizando a o cabeçalho */ 
+    margin-top: 0.2%;
+    background-color: black;
+    color: white;
+    width: 97%;
+    border-radius: 30px;
+    height: 50px;
+}
+
+.Header > ul > li{ /* Estilizando a o cabeçalho */ 
+        list-style-type: none;
+        display: inline-block;
+        padding: 15px;
+        
+        }
+.Form_Box{
+    text-align: center;
+    border: solid black 1px;
+    border-radius: 30px;
+    width: 500px;
+    height: 545px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Label_Name{
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+
+.Input_Name input::placeholder {  /* Estilizando a peseudo classe  Placeholder do Input_Name  */ 
+    font-size: 20px;
+    padding-left: 10px;
+    margin-left: 20px;
+  }
+
+.Label_LastName{
+    font-size: 20px;
+}
+
+.Input_LastName input::placeholder{   /* Estilizando a peseudo classe  Placeholder do Input_LastName  */ 
+    font-size: 19px;
+    padding-left: 10px;
+
+  }
+
+.Label_Age{
+    font-size: 20px;
+}
+
+.Label_Type_Document{
+    font-size: 20px;
+    
+}
+
+.Label_Document{
+    font-size: 20px;
+    margin-top: 18px;
+}
+
+.Input_Document input::placeholder{   /* Estilizando a peseudo classe  Placeholder do Input_Document  */ 
+    font-size: 20px;
+    padding-left: 10px;
+  }
+
+.Label_Treatment{
+    font-size: 20px;
+}
+
+.Treatment_Input_Sr{
+    display: inline-block;
+
+}
+
+.Treatment_Label_Sr{
+    display: inline-block;
+    font-size: 20px;
+
+}
+
+.Treatment_Input_Sra{
+    display: inline-block;
+
+}
+
+.Treatment_Label_Sra{
+    display: inline-block;
+    font-size: 20px;
+}
