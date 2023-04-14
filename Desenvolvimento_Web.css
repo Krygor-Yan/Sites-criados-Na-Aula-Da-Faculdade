@@ -1,0 +1,74 @@
+
+
+.Form_Contact{
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: gray;
+    color: black;
+    font-weight: bold;
+}
+
+.Box_Form{
+    margin-right: auto;
+    margin-left: auto;
+    border: solid 2px black;
+    width: 900px;
+    height: 400px;
+    border-radius: 10px;
+ 
+}
+
+.Name_Surname{
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+
+.Position{
+    display: inline-block;
+
+}
+
+.Sector{
+    display: inline-block; 
+}
+
+.Age{
+    
+    display: inline-block;
+    margin-top: 10PX;
+}
+
+.Age_Text{
+    margin-left: 20px;
+    display: inline-block;
+    
+}
+
+.Date{
+    display: block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.Date_Text{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.Observations{
+    margin-top: 10px;
+    margin-left: 20px;
+  
+}
+    
+
+
+
+
+.Submit{
+    margin-top: 100px;
+    margin-left: 40%;
+    
+
+}
